@@ -1,0 +1,16 @@
+{
+  "name": "YAGO - Unbothered. Unstoppable. On Base Network",
+  "short_name": "YAGO",
+  "description": "YAGO is more than a meme. Join the movement of unbothered thinkers, builders, and memers on Base Network.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#EAB308",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
