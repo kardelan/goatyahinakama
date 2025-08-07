@@ -133,11 +133,15 @@ export default function YagoCrypto() {
       {/* Marquee */}
       <div className="bg-yellow-400 text-black py-4 overflow-hidden">
         <div className="animate-marquee whitespace-nowrap">
-          <span className="text-xl font-bold mx-8">BASED $YAGO</span>
+          <span className="text-xl font-bold mx-8">$YAGO</span>
           <span className="text-xl font-bold mx-8">•</span>
-          <span className="text-xl font-bold mx-8">BASED $YAGO</span>
+          <span className="text-xl font-bold mx-8">$YAGO</span>
           <span className="text-xl font-bold mx-8">•</span>
-          <span className="text-xl font-bold mx-8">BASED $YAGO</span>
+          <span className="text-xl font-bold mx-8">$YAGO</span>
+          <span className="text-xl font-bold mx-8">•</span>
+          <span className="text-xl font-bold mx-8">$YAGO</span>
+          <span className="text-xl font-bold mx-8">•</span>
+          <span className="text-xl font-bold mx-8">$YAGO</span>
           <span className="text-xl font-bold mx-8">•</span>
         </div>
       </div>
