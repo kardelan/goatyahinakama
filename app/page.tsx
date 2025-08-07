@@ -66,7 +66,7 @@ export default function YagoCrypto() {
           </nav>
 
           <Button asChild className="bg-yellow-400 text-black hover:bg-yellow-500 shadow-lg">
-            <Link href="#" target="_blank">buy now</Link>
+            <Link href="https://ape.store/base/0x3d9a77d58d191188b13843f842f403cd23db55d5" target="_blank">buy now</Link>
           </Button>
         </div>
 
@@ -364,7 +364,7 @@ export default function YagoCrypto() {
               </ol>
               <div className="text-center">
                 <Button asChild className="bg-yellow-400 text-black hover:bg-yellow-500 mb-8 shadow-lg">
-                  <Link href="#" target="_blank">Go to buy</Link>
+                  <Link href="https://ape.store/base/0x3d9a77d58d191188b13843f842f403cd23db55d5" target="_blank">Go to buy</Link>
                 </Button>
               </div>
             </div>
